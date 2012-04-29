@@ -1,0 +1,13 @@
+Case #1: 3
+Case #2: 3
+Case #3: Too Bad
+Case #4: 6
+Case #5: 3
+Case #6: 3
+Case #7: Too Bad
+Case #8: 6
+Case #9: 18
+Case #10: 3
+Case #11: 6
+Case #12: 5
+Case #13: 8
